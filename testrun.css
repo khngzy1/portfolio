@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
